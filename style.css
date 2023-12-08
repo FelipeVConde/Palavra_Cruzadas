@@ -34,7 +34,7 @@ table tr {
 #perguntas {
   width: 50vw;
   height: 245vh;
-  background-color: rgb(76, 94, 167);
+  background-color: rgb(92, 92, 92);
   border-radius: 0 40px 40px 0;
   overflow-y: hidden;
 }
@@ -69,19 +69,19 @@ table tr {
 #inicio1 {
   font-size: 0.6em;
   position: fixed;
-  left: 75.35vw;
+  left: 74.35vw;
   top: 76.9vh;
 }
 #inicio2 {
   font-size: 0.6em;
   position: fixed;
-  left: 74.5vw;
+  left: 74.35vw;
   top: 88.5vh;
 }
 #inicio3 {
   font-size: 0.6em;
   position: fixed;
-  left: 62.3vw;
+  left: 61.3vw;
   top: 28.5vh;
 }
 #inicio4 {
@@ -93,7 +93,7 @@ table tr {
 #inicio5 {
   font-size: 0.6em;
   position: fixed;
-  left: 74.5vw;
+  left: 75.0vw;
   top: 68.5vh;
 }
 #inicio6 {
@@ -111,7 +111,7 @@ table tr {
 #inicio8 {
   font-size: 0.6em;
   position: fixed;
-  left: 80.3vw;
+  left: 81.3vw;
   top: 66.9vh;
 }
 #inicio9 {
@@ -141,7 +141,7 @@ table tr {
 #inicio13 {
   font-size: 0.6em;
   position: fixed;
-  left: 70.3vw;
+  left: 71.3vw;
   top: 26.8vh;
 }
 #inicio14 {
@@ -172,5 +172,5 @@ table tr {
   font-size: 0.6em;
   position: fixed;
   left: 70.3vw;
-  top: 46.8vh;
+  top: 45.8vh;
 }
