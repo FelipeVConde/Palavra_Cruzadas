@@ -1,17 +1,15 @@
 var listaQuestao = [
-  `Qual é o componente de hardware responsável por executar instruções e processar dados em um computador?`,
+  `Um componente eletrônico responsável pelo processamento de tarefas`,
 
-  `É um circuito digital responsável pelas operações lógicas e aritméticas no processador de um computador.`,
+  `um circuito combinatório responsável pela execução de somas, subtrações e funções lógicas, em um sistema digital`,
 
-  `Unidades de armazenamento de alta velocidade dentro da Unidade de Controle. Eles permitem que a UC armazene e manipule dados e instruções de forma rápida e eficiente durante o 
-  processamento. E se localizam dentro da CPU.`,
+  `um dispositivo usado para armazenar dados.`,
 
-  `Componente de memória em seu computador para armazenamento temporário de seus arquivos e aplicativos`,
+  `Um componente volátil que armazena informação`,
 
-  `Componente de memória não volátil em computadores, o que significa que as informações são armazenadas
-  permanentemente no chip. A memória não depende de uma corrente elétrica para salvar dados`,
+  `Um componente não volátil de armazenamento que é incapaz de sobrescrever as informações gravadas`,
 
-  `Memória de somente leitura cujo conteúdo pode ser apagado por luz ultravioleta ou outros meios e reprogramado usando uma voltagem pulsada`,
+  `Um componente não volátil que armazena informação`,
 
   `Chip de armazenamento não volátil e de longa duração amplamente utilizado em sistemas embarcados. Ele pode manter dados e informações armazenados mesmo quando a energia está desligada`,
 
